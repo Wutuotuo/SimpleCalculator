@@ -1,0 +1,12 @@
+.box{
+     width: 300px;
+     height: 250px;
+     background:#90EE90;
+     margin: auto;
+}
+.title{
+     text-align:center;
+}
+.button{
+     margin: auto;
+}
